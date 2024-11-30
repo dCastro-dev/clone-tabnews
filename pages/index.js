@@ -1,6 +1,9 @@
 function Home() {
   return (
-    <h1>Oi amor, levantei esse serviço na internet para dizer que TE AMO!</h1>
+    <h1>
+      Viu como consigo te ensinar programação em menos de 10 minutos? amo-te meu
+      nenem...
+    </h1>
   );
 }
 
